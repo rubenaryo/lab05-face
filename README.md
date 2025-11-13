@@ -1,7 +1,14 @@
 # lab06-proceduralFace
 
+## Ruben Young - Submission
+* Wasn't there in-person so worked solo
+* [Shadertoy Link](https://www.shadertoy.com/view/wXBfW3)
+
+---
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
+
 
 ## Setup
 Start by forking [this shadertoy](https://www.shadertoy.com/view/XftyR8)
